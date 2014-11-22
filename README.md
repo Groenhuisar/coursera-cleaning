@@ -28,6 +28,7 @@ There are 30 subjects and 6 activity, so in total there are 180 rows with the me
 
 
 Code book:
+
 Activity: Activity of the test people (like walking, sitting, walking_upstairs)
 
 Subject: number (1:30) of a test person (so there are 30 volunteers)
